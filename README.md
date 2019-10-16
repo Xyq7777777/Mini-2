@@ -27,5 +27,15 @@ This paper give a tutorial and overview of the field of unsupervised learning fr
 
 ## Recommendations for a person who want to develop or use such systems
 
+Unsupervised machine learning purports to uncover previously unknown patterns in data, but most of the time these patterns are poor approximations of what supervised machine learning can achieve. Additionally, since you do not know what the outcomes should be, there is no way to determine how accurate they are, making supervised machine learning more applicable to real-world problems.
+
+The best time to use unsupervised machine learning is when you do not have data on desired outcomes, such as determining a target market for an entirely new product that your business has never sold before. However, if you are trying to get a better understanding of your existing consumer base, supervised learning is the optimal technique.
+
+The patterns you uncover with unsupervised machine learning methods may also come in handy when implementing supervised machine learning methods later on. For example, you might use an unsupervised technique to perform cluster analysis on the data, then use the cluster to which each row belongs as an extra feature in the supervised learning model (see semi-supervised machine learning). Another example is a fraud detection model that uses anomaly detection scores as an extra feature.
+
 ## Conclusions
+
+Unsupervised learning is important for understanding the variation and grouping structure of a set of unlabeled data,
+and can be a useful pre-processor for supervised learning. It is intrinsically more difficult than supervised learning
+because there is no gold standard (like an outcome variable) and no single objective (like test set accuracy). It is an active field of research, with many recently developed tools such as self-organizing maps, independent components analysis and spectral clustering.
 
