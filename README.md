@@ -6,10 +6,10 @@ Unsupervised learning is a type of self-organized Hebbian learning that helps fi
 
 ## Summary of references
 
-- A. Hadid, O. Kouropteva and M. Pietikainen, "Unsupervised learning using locally linear embedding: experiments with face pose analysis," Object recognition supported by user interaction for service robots, Quebec City, Quebec, Canada, 2002, pp. 111-114 vol.1.
+- A. Hadid, O. Kouropteva and M. Pietikainen, "Unsupervised learning using locally linear embedding: experiments with face pose analysis," Object recognition supported by user interaction for service robots, Quebec City, Quebec, Canada, 2002, pp. 111-114 vol.1.  
 This paper considers a recently proposed method for unsupervised learning and dimensionality reduction, locally linear embedding (LLE). LLE computes a compact representation of high-dimensional data combining the major advantages of linear methods (computational efficiency, global optimality, and flexible asymptotic convergence guarantees) with the advantages of non-linear approaches (flexibility to learn a broad class on non-linear manifolds). We assess the performance of the LLE algorithm on real-world data (face images in different poses) and compare the results with those obtained with two different approaches (PCA and SOM). Extensions to the original LLE algorithm are proposed and applied to the problem of pose estimation.
 
-- Ghahramani Z. (2004) Unsupervised Learning. In: Bousquet O., von Luxburg U., Rätsch G. (eds) Advanced Lectures on Machine Learning. ML 2003. Lecture Notes in Computer Science, vol 3176. Springer, Berlin, Heidelberg
+- Ghahramani Z. (2004) Unsupervised Learning. In: Bousquet O., von Luxburg U., Rätsch G. (eds) Advanced Lectures on Machine Learning. ML 2003. Lecture Notes in Computer Science, vol 3176. Springer, Berlin, Heidelberg.  
 This paper give a tutorial and overview of the field of unsupervised learning from the perspective of statistical modeling. Unsupervised learning can be motivated from information theoretic and Bayesian principles. We briefly review basic models in unsupervised learning, including factor analysis, PCA, mixtures of Gaussians, ICA, hidden Markov models, state-space models, and many variants and extensions. We derive the EM algorithm and give an overview of fundamental concepts in graphical models, and inference algorithms on graphs. This is followed by a quick tour of approximate Bayesian inference, including Markov chain Monte Carlo (MCMC), Laplace approximation, BIC, variational approximations, and expectation propagation (EP).
 
 ## Pros and cons
