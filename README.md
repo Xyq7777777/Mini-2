@@ -46,6 +46,8 @@ This report is about unsupervised learning. Unsupervised learning is commonly us
 
 ### Yuan Wei
 
+This report introduced object segmentation, which is a subset of computer vision and nowadays frequently using machine learning algorithm to deal with problems. Segmentation models are useful for a variety of tasks, including Autonomous vehicles, Medical image diagnostics and satellite Imagery. For segmenting object, essentially neural networks are widely. There are a few different approaches was given to upsample the resolution of a feature map. Transpose convolutions are the most popular approach. Dilated convolutions provide alternative approach towards gaining a wide field of view while preserving the full spatial dimension. Some architectures swap out the last few pooling layers for dilated convolutions with successively higher dilation rates to maintain the same field of view while preventing loss of spatial detail.
+
 ### LIN YUFENG
 This report introduced about machine learning.it is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. The algorithms of Machine Learning build a mathematical model based on the sample data to make predictions or decisions without being explicitly programmed to perform the task. An open-source software example TensorFlow was provided, which developed by Google and widely used in deep learning now. The code provided is for the image classification. It uses the Fashion MNIST dataset with low resolutions to classify. 60,000 images are used to train the network and 10,000 images to evaluate how accurately the network learned to classify images.
 
