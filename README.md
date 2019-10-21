@@ -54,4 +54,4 @@ This report introduced about machine learning.it is the scientific study of algo
 ### Jiang Lingtao
 This report is about image recognition. Image recognition is an identification of a specific object such as human, animals, vehicles and other variable things from images or videos. The key step of image recognition is to gather the data and then create a module to predict and recognize the images. YOLO is one of image detector algorithm . It uses a single neural network to the image and the neural network divides the image into a grid of 13 by 13 cells. Each cell will take responsibility for five bonding boxes. A bonding box is used to describe the object in it. The network can predict these bonding boxes and probabilities of each region in this way.
 
-### Li Chenxi
+
