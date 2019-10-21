@@ -47,7 +47,9 @@ This report is about unsupervised learning. Unsupervised learning is commonly us
 ### Yuan Wei
 
 ### LIN YUFENG
+This report introduced about machine learning.it is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. The algorithms of Machine Learning build a mathematical model based on the sample data to make predictions or decisions without being explicitly programmed to perform the task. An open-source software example TensorFlow was provided, which developed by Google and widely used in deep learning now. The code provided is for the image classification. It uses the Fashion MNIST dataset with low resolutions to classify. 60,000 images are used to train the network and 10,000 images to evaluate how accurately the network learned to classify images.
 
 ### Jiang Lingtao
+This report is about image recognition. Image recognition is an identification of a specific object such as human, animals, vehicles and other variable things from images or videos. The key step of image recognition is to gather the data and then create a module to predict and recognize the images. YOLO is one of image detector algorithm . It uses a single neural network to the image and the neural network divides the image into a grid of 13 by 13 cells. Each cell will take responsibility for five bonding boxes. A bonding box is used to describe the object in it. The network can predict these bonding boxes and probabilities of each region in this way.
 
 ### Li Chenxi
