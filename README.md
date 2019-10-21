@@ -39,3 +39,15 @@ Unsupervised learning is important for understanding the variation and grouping 
 and can be a useful pre-processor for supervised learning. It is intrinsically more difficult than supervised learning
 because there is no gold standard (like an outcome variable) and no single objective (like test set accuracy). It is an active field of research, with many recently developed tools such as self-organizing maps, independent components analysis and spectral clustering.
 
+## Summary of teammates' report
+
+### Qi Luxuan
+This report is about unsupervised learning. Unsupervised learning is commonly used in data mining. Unsupervised learning is to classify data sets by learning unlabeled data sets and revealing the laws and characteristics of the data. Clustering is one of the main methods of unsupervised learning, which can effectively distinguish data Unsupervised learning has a wide range of applications. It can analyze and extract similar features of data sets, but it is limited and sometimes cannot produce satisfactory results. The result is often inferior to supervised learning
+
+### Yuan Wei
+
+### LIN YUFENG
+
+### Jiang Lingtao
+
+### Li Chenxi
